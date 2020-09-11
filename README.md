@@ -57,3 +57,7 @@ $ feathers help                           # Show all commands
 ## Help
 
 For more information on all the things you can do with Feathers visit [docs.feathersjs.com](http://docs.feathersjs.com).
+
+## Known Issues
+
+This code does not work properly when the npm process is run under Cygwin or similar systems. If you are on a Windows system, run the 'npm start' process from the command line.
